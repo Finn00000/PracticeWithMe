@@ -18,7 +18,7 @@ int main()
 
    if(num1 >= num2)
 {
-    if(num1 >= 3) printf("Max : %d" ,num1);
+    if(num1 >= num3) printf("Max : %d" ,num1);
     else printf("Max : %d" ,num3);
 }
 
